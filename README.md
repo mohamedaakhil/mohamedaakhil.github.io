@@ -19,3 +19,4 @@ Any push to `main` that modifies `index.html` triggers the workflow in `.github/
 1. Clone this repo
 2. Go to **Settings → Pages → Source** → set to **GitHub Actions**
 3. Push a change to `index.html` — the site deploys itself
+https://roadmap.sh/projects/github-actions-deployment-workflow
