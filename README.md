@@ -1,8 +1,10 @@
-# gh-deployment-workflow
+**#Github Pages Deployment**
+# mohamedaakhil.github.io
+
 
 A static website automatically deployed to **GitHub Pages** via **GitHub Actions** — triggers only when `index.html` changes.
 
-🌐 **Live site:** `https://mohamedaakhil.github.io/mohamed.github.io/`
+🌐 **Live site:** `https://mohamedaakhil.github.io`
 
 ## Stack
 
@@ -14,6 +16,6 @@ Any push to `main` that modifies `index.html` triggers the workflow in `.github/
 
 ## Setup
 
-1. Fork or clone this repo
+1. Clone this repo
 2. Go to **Settings → Pages → Source** → set to **GitHub Actions**
 3. Push a change to `index.html` — the site deploys itself
